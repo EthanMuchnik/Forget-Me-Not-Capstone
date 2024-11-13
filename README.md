@@ -18,5 +18,5 @@ Here is what is currently in each of our subdirectories:
 - `raspi-scripts/`: This directory contains basic scripts pertaining to raspberry-pis. This will likely include scripts that do things like periodically take photos, or record microphone data. The scripts in this directory will likely not be used in our final code. 
 - `webserver/`: This directory contains all code pertaining to the webserver that our final application will be running on. Currently, it is in a very rudimentary state, and can only recieve/send files. Much more information is present inside of the directory's readme. NOTE: The wevserver has its own virtual enironment. Be sure to initialize it appropriately before running any code.
 - `Yolo-Classification/`:  This directory contains all code for training and validating various object classification models obtained using YOLO.
-- `GroundingDino/`: This directory contains the GroundingDino Classification Model and various testing scripts.
+- `GroundingDino/`: This directory contains the GroundingDino Classification Model and various testing scripts for it.
 
